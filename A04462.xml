@@ -1230,7 +1230,10 @@ mo ‘i watwar. Y mae dynion yn canfod er ys-dyddieu bellach, beth yr ydis arno,
                   <desc>〈 in non-Latin alphabet 〉</desc>
                </gap>
             </q>
-            <figure/>
+            <p>
+               <pb facs="tcp:29265:112"/>
+               <figure/>
+            </p>
             <pb facs="tcp:29265:112"/>
             <pb facs="tcp:29265:113"/>
          </div>
